@@ -45,7 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-# Run React App using nginx in local environment
+# Run React App Locally with Nginx
 
 To run a React app using Nginx on Windows, you need to follow these general steps. Note that the specifics might vary based on your project structure and requirements.
 
